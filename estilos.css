@@ -1,0 +1,52 @@
+.corpo{
+    background-color: black;
+    border-width: 70;
+    color: #c36a00;
+    width: 70%;
+}
+body{
+    background: black;
+}
+.rodape{
+    background-color: black;
+    color: black;
+}
+a{
+    color: white;
+}
+.corpo2{
+    background-color: black;
+    border-width: 70;
+    color: blue;
+    width: 70%;
+    
+}
+.cabecalho{
+    background: linear-gradient(90deg, rgba(195,106,0,1) 0%, rgba(0,0,0,1) 81%);
+    text-align: right;
+}
+header {
+	background-color: linear-gradient(90deg, rgba(195,106,0,1) 0%, rgba(0,0,0,1) 81%);
+	color: #fff;
+	padding: 20px;
+}
+.cabecalho2{
+    background: linear-gradient(90deg, rgba(5,18,99,1) 39%, rgba(15,5,5,1) 100%);
+    text-align: right;
+}
+footer {
+	background-color: linear-gradient(90deg, rgba(195,106,0,1) 0%, rgba(0,0,0,1) 81%);
+	color: #fff;
+	padding: 20px;
+	text-align: right;
+}
+.cabecalho3{
+    background: linear-gradient(90deg, rgba(37,99,5,1) 30%, rgba(15,5,5,1) 100%);
+    text-align: right;
+}
+.corpo3{
+    color: rgba(37,99,5,1);
+    background-color: black;
+    border-width: 70;
+    width: 70%;
+}
